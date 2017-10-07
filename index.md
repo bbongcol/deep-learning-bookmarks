@@ -7,6 +7,7 @@
   - [모두를 위한 RL강좌](https://www.youtube.com/watch?v=dZ4vw6v3LcA&list=PLlMkM4tgfjnKsCWav-Z2F-MMFRx-2gMGG&index=1)
   - [수업웹페이지/슬라이드](https://hunkim.github.io/ml/)
   - [Github (DeepLearningZeroToAll) 코드](https://github.com/hunkim/DeepLearningZeroToAll/)
+  - [PR12 딥러닝 논문읽기 모임](https://www.youtube.com/playlist?list=PLlMkM4tgfjnJhhd4wn5aj8fVTYJwIpWkS)
 
 - **CS231n: CNN for Visual Recognition Winter 2016**
   - [유튜브 강의 플레이리스트](https://www.youtube.com/watch?v=NfnWJUyUJYU&list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC)
@@ -80,6 +81,7 @@
   - [pytorch-tutorial by yunjey](https://github.com/yunjey/pytorch-tutorial.git)
   - [examples by pytorch](https://github.com/pytorch/examples)
   - [pytorch_exercises by Kyubyong](https://github.com/Kyubyong/pytorch_exercises)
+  - [PyTorchZeroToAll for hunkim](https://github.com/hunkim/PyTorchZeroToAll)
 
 - **응용**
   - [style2paints](https://github.com/lllyasviel/style2paints)
