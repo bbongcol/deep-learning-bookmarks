@@ -18,12 +18,12 @@
   - [유튜브 동영상 강좌 한글 자막](https://github.com/aikorea/cs231n/tree/master/captions/Ko)
 
 - **CS231n: Convolutional Neural Networks for Visual Recognition Winter 2017**
-  - [유뷰브 강의 플레이리스트](https://www.youtube.com/playlist?list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk)
+  - [유튜브 강의 플레이리스트](https://www.youtube.com/playlist?list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk)
   - [강의 웹페이지](http://cs231n.stanford.edu/2017/)
   - [강의노트, 슬라이드](http://cs231n.stanford.edu/2017/syllabus)
 
 - **CS224n: Natural Language Processing with Deep Learning**
-  - [유뷰브 강의 플레이리스트](https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6)
+  - [유튜브 강의 플레이리스트](https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6)
   - [강의 웹페이지](http://web.stanford.edu/class/cs224n/)
 
 - **CS 20SI - Tensorflow for Deep Learning Research**
