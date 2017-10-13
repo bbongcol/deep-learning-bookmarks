@@ -97,6 +97,8 @@
 - **Android**
   - [Tensorflow Android Demo](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/examples/android)
   - [Android & TensorFlow: Artistic Style Transfer](https://codelabs.developers.google.com/codelabs/tensorflow-style-transfer-android/index.html?index=..%2F..%2Fio2017#0)
+  - [TensorFlow for Poets 2: Optimize for Mobile](https://codelabs.developers.google.com/codelabs/tensorflow-for-poets-2/#0)
+  - [Artistic style transfer & other advanced image editing](https://codelabs.developers.google.com/codelabs/android-style-transfer/#0)
 
 
 ### 유용한  링크
