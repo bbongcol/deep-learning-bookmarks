@@ -74,6 +74,7 @@
   - [tensorflow_tutorials by pkmital](https://github.com/pkmital/tensorflow_tutorials)
   - [TensorFlow-Tutorials by nlintz](https://github.com/nlintz/TensorFlow-Tutorials)
   - [tensorflow-generative-model-collections by hwalsuklee](https://github.com/hwalsuklee/tensorflow-generative-model-collections)
+  - [TensorFlow-Book](https://github.com/BinRoot/TensorFlow-Book)
 
 - **PyTorch**
   - [PyTorch-FastCampus by GunhoChoi](https://github.com/GunhoChoi/PyTorch-FastCampus)
