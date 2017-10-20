@@ -103,6 +103,8 @@
   - [Android & TensorFlow: Artistic Style Transfer](https://codelabs.developers.google.com/codelabs/tensorflow-style-transfer-android/index.html?index=..%2F..%2Fio2017#0)
   - [TensorFlow for Poets 2: Optimize for Mobile](https://codelabs.developers.google.com/codelabs/tensorflow-for-poets-2/#0)
   - [Artistic style transfer & other advanced image editing](https://codelabs.developers.google.com/codelabs/android-style-transfer/#0)
+  - [Tutorial: Build Your First Tensorflow Android App](https://omid.al/posts/2017-02-20-Tutorial-Build-Your-First-Tensorflow-Android-App.html)
+  - [Real-time object detection on Android using the YOLO network with TensorFlow](https://github.com/natanielruiz/android-yolo)
 
 
 ### 유용한  링크
