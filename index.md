@@ -123,6 +123,7 @@
   - [오토 인코더를 이용한 비정상 거래 검출 모델의 구현](http://bcho.tistory.com/m/1197)
   - [텐서플로우 첫걸음](https://tensorflow.blog/2016/04/28/first-contact-with-tensorflow/)
   - [머신러닝 책 로드맵](https://www.mindmeister.com/812276967/)
+  - [수학포기자를 위한 딥러닝과 텐서플로우의 이해](http://bcho.tistory.com/1208)
 
 - **영문**
   - [Python Numpy Tutorial](http://cs231n.github.io/python-numpy-tutorial/)
