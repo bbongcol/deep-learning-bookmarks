@@ -105,6 +105,7 @@
   - [Artistic style transfer & other advanced image editing](https://codelabs.developers.google.com/codelabs/android-style-transfer/#0)
   - [Tutorial: Build Your First Tensorflow Android App](https://omid.al/posts/2017-02-20-Tutorial-Build-Your-First-Tensorflow-Android-App.html)
   - [Real-time object detection on Android using the YOLO network with TensorFlow](https://github.com/natanielruiz/android-yolo)
+  - [Android O Neural Networks API](https://developer.android.com/ndk/guides/neuralnetworks/index.html)
 
 
 ### 유용한  링크
