@@ -106,6 +106,7 @@
   - [Tutorial: Build Your First Tensorflow Android App](https://omid.al/posts/2017-02-20-Tutorial-Build-Your-First-Tensorflow-Android-App.html)
   - [Real-time object detection on Android using the YOLO network with TensorFlow](https://github.com/natanielruiz/android-yolo)
   - [Android O Neural Networks API](https://developer.android.com/ndk/guides/neuralnetworks/index.html)
+  - [Baidu CNN(Convolutional Neural Network) on mobile devices](https://github.com/baidu/mobile-deep-learning)
 
 
 ### 유용한  링크
