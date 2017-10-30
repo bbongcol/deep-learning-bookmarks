@@ -78,6 +78,7 @@
   - [Awesome TensorFlow](https://github.com/jtoy/awesome-tensorflow)
   - [Tensorflow Tutorials using Jupyter Notebook](https://github.com/sjchoi86/Tensorflow-101)
   - [tensorflow-wavenet](https://github.com/ibab/tensorflow-wavenet)
+  - [A general-purpose encoder-decoder framework for Tensorflow](https://github.com/google/seq2seq)
 
 - **PyTorch**
   - [PyTorch-FastCampus by GunhoChoi](https://github.com/GunhoChoi/PyTorch-FastCampus)
