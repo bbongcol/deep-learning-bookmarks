@@ -65,8 +65,8 @@ https://bbongcol.github.io/deep-learning-bookmarks/
   - [Montreal 2016 Video Lectures](http://videolectures.net/deeplearning2016_montreal/)
 
 - **최신 논문으로 시작하는 딥러닝**
-  - [edwith 강의 홈페이지](http://www.edwith.org/deeplearningchoi)
-  - [강사 최성준님의 github](https://github.com/sjchoi86)
+  - [edwith 강의 홈페이지](http://www.edwith.org/deeplearningchoi)
+  - [강사 최성준님의 github](https://github.com/sjchoi86)
 
 ### GitHub
 
