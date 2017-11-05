@@ -64,6 +64,9 @@ https://bbongcol.github.io/deep-learning-bookmarks/
   - [Montreal 2015 Video Lectures](http://videolectures.net/deeplearning2015_montreal/)
   - [Montreal 2016 Video Lectures](http://videolectures.net/deeplearning2016_montreal/)
 
+- **최신 논문으로 시작하는 딥러닝**
+  - [edwith 강의 홈페이지](http://www.edwith.org/deeplearningchoi)
+  - [강사 최성준님의 github](https://github.com/sjchoi86)
 
 ### GitHub
 
@@ -136,6 +139,8 @@ https://bbongcol.github.io/deep-learning-bookmarks/
   - [Deep Reinforcement Learning: Pong from Pixels - Andrej blog](http://karpathy.github.io/2016/05/31/rl/)
   - [Learn TensorFlow and deep learning, without a Ph.D.](https://cloud.google.com/blog/big-data/2017/01/learn-tensorflow-and-deep-learning-without-a-phd)
   - [Deep Learning for NLP Best Practices](http://ruder.io/deep-learning-nlp-best-practices/)
+  - [Google Colaboratory](https://colab.research.google.com)
+
 
 - **유튜브**
   - [Machine Learning Recipes with Josh Gordon](https://www.youtube.com/playlist?list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal)
