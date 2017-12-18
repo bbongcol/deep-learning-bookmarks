@@ -1,8 +1,10 @@
 딥러닝 관련 강의, 자료, 읽을거리들에 대한 모음입니다. 
 https://bbongcol.github.io/deep-learning-bookmarks/
 
+딥러닝 관련 강의, 자료, 읽을거리들에 대한 모음입니다. 
 
-###  동영상 강의 모음
+
+###  강의 모음
 - **김성훈 교수님 강의**
   - [모두를 위한 딥러닝 강좌 시즌 1](https://www.youtube.com/playlist?list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm)
   - [모두를 위한 RL강좌](https://www.youtube.com/watch?v=dZ4vw6v3LcA&list=PLlMkM4tgfjnKsCWav-Z2F-MMFRx-2gMGG&index=1)
@@ -68,6 +70,13 @@ https://bbongcol.github.io/deep-learning-bookmarks/
   - [edwith 강의 홈페이지](http://www.edwith.org/deeplearningchoi)
   - [강사 최성준님의 github](https://github.com/sjchoi86)
 
+- **케라스 강좌**
+  - [(블록과 함께하는) 파이썬 딥러닝 “케라스” 기초](https://tykimos.github.io/lecture/)
+
+- **Reinforcement Learning**
+  - [Fundamental of Reinforcement Learning 깃북](https://dnddnjs.gitbooks.io/rl/content/)
+
+
 ### GitHub
 
 - **TensorFlow**
@@ -114,7 +123,7 @@ https://bbongcol.github.io/deep-learning-bookmarks/
   - [Baidu CNN(Convolutional Neural Network) on mobile devices](https://github.com/baidu/mobile-deep-learning)
 
 
-### 유용한  링크
+### 유용한 링크
 
 - **한글**
   - [쉽게 풀어쓴 딥 러닝의 거의 모든 것](http://slownews.kr/41461)
@@ -131,6 +140,8 @@ https://bbongcol.github.io/deep-learning-bookmarks/
   - [텐서플로우 첫걸음](https://tensorflow.blog/2016/04/28/first-contact-with-tensorflow/)
   - [머신러닝 책 로드맵](https://www.mindmeister.com/812276967/)
   - [수학포기자를 위한 딥러닝과 텐서플로우의 이해](http://bcho.tistory.com/1208)
+  - [Tensor Flow를 이용한 음향인식기 제작](http://cscp2.sogang.ac.kr/CSE5311/index.php/Tensor_Flow%EB%A5%BC_%EC%9D%B4%EC%9A%A9%ED%95%9C_%EC%9D%8C%ED%96%A5%EC%9D%B8%EC%8B%9D%EA%B8%B0_%EC%A0%9C%EC%9E%91#.ED.94.84.EB.A1.9C.EC.A0.9D.ED.8A.B8_.EB.AA.85)
+  - [DeepLearning-Summary](https://github.com/taki0112/Awesome-DeepLearning-Study)
 
 - **영문**
   - [Python Numpy Tutorial](http://cs231n.github.io/python-numpy-tutorial/)
@@ -140,7 +151,12 @@ https://bbongcol.github.io/deep-learning-bookmarks/
   - [Learn TensorFlow and deep learning, without a Ph.D.](https://cloud.google.com/blog/big-data/2017/01/learn-tensorflow-and-deep-learning-without-a-phd)
   - [Deep Learning for NLP Best Practices](http://ruder.io/deep-learning-nlp-best-practices/)
   - [Google Colaboratory](https://colab.research.google.com)
+  - [Machine Learning Cheatsheet](https://ml-cheatsheet.readthedocs.io/en/latest/index.html)
+  - [Building an Automated Image Captioning Application](https://daniel.lasiman.com/post/image-captioning/)
 
+- **논문정리**
+  - [Awesome - Most Cited Deep Learning Papers](https://github.com/terryum/awesome-deep-learning-papers)
+  - [Deep Learning Papers Reading Roadmap](https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap)
 
 - **유튜브**
   - [Machine Learning Recipes with Josh Gordon](https://www.youtube.com/playlist?list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal)
