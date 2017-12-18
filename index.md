@@ -69,6 +69,7 @@
 
 - **케라스 강좌**
   - [(블록과 함께하는) 파이썬 딥러닝 “케라스” 기초](https://tykimos.github.io/lecture/)
+  - [Keras 레퍼런스](https://www.codeonweb.com/course/9e663a9d-7788-4874-bfd6-987a679fb70e)
 
 - **Reinforcement Learning**
   - [Fundamental of Reinforcement Learning 깃북](https://dnddnjs.gitbooks.io/rl/content/)
@@ -172,3 +173,9 @@
   - [Baidu Research](http://research.baidu.com)
   - [다음 카카오 AI리포트](https://brunch.co.kr/magazine/kakaoaireport)
   - [네이버 Labs](http://www.naverlabs.com/newsroom.html)
+  
+- **커뮤니티**
+  - [TensorFlow KR](https://www.facebook.com/groups/TensorFlowKR/), [FB Sight TF-KR](http://fbsight.com/c/TF-KR)
+  - [AI Korea (Deep Learning)](https://www.facebook.com/groups/AIKoreaOpen)
+  - [PyTorch KR](https://www.facebook.com/groups/PyTorchKR/)
+  - [Reddit MachineLearning](https://www.reddit.com/r/MachineLearning/)
