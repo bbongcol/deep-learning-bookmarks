@@ -1,6 +1,7 @@
 딥러닝 관련 강의, 자료, 읽을거리들에 대한 모음입니다. 
 https://bbongcol.github.io/deep-learning-bookmarks/
 
+
 ###  강의 모음
 - **김성훈 교수님 강의**
   - [모두를 위한 딥러닝 강좌 시즌 1](https://www.youtube.com/playlist?list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm)
@@ -9,6 +10,10 @@ https://bbongcol.github.io/deep-learning-bookmarks/
   - [Github (DeepLearningZeroToAll) 코드](https://github.com/hunkim/DeepLearningZeroToAll/)
   - [PR12 딥러닝 논문읽기 모임](https://www.youtube.com/playlist?list=PLlMkM4tgfjnJhhd4wn5aj8fVTYJwIpWkS)
 
+- **구글 머신러닝 단기집중과정**
+  - [머신러닝 단기집중과정](https://developers.google.com/machine-learning/crash-course/?hl=ko)
+  - [Learn with Google AI](https://developers.google.com/machine-learning/crash-course/?hl=ko)
+ 
 - **CS231n: CNN for Visual Recognition Winter 2016**
   - [유튜브 강의 플레이리스트](https://www.youtube.com/watch?v=NfnWJUyUJYU&list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC)
   - [유튜브 강의 (Kyoseok Song님 한글설명)](https://www.youtube.com/playlist?list=PL1Kb3QTCLIVtyOuMgyVgT-OeW0PYXl3j5)
@@ -62,6 +67,7 @@ https://bbongcol.github.io/deep-learning-bookmarks/
 - **Deep Learning Summer School**
   - [Montreal 2015 Video Lectures](http://videolectures.net/deeplearning2015_montreal/)
   - [Montreal 2016 Video Lectures](http://videolectures.net/deeplearning2016_montreal/)
+  - [Montreal 2017 Video Lectures](http://videolectures.net/deeplearning2017_montreal/)
 
 - **최신 논문으로 시작하는 딥러닝**
   - [edwith 강의 홈페이지](http://www.edwith.org/deeplearningchoi)
@@ -152,12 +158,23 @@ https://bbongcol.github.io/deep-learning-bookmarks/
   - [Machine Learning Cheatsheet](https://ml-cheatsheet.readthedocs.io/en/latest/index.html)
   - [Building an Automated Image Captioning Application](https://daniel.lasiman.com/post/image-captioning/)
 
+- **Deep Learning in 2017**
+  - [The Google Brain Team — Looking Back on 2017 (Part 1 of 2)](https://research.googleblog.com/2018/01/the-google-brain-team-looking-back-on.html) ([한글](https://developers-kr.googleblog.com/2018/02/the-google-brain-team-looking-back-on-2017.html))
+  - [The Google Brain Team — Looking Back on 2017 (Part 2 of 2)](https://developers-kr.googleblog.com/2018/02/the-google-brain-team-looking-back-on-2017.html) ([한글](https://developers-kr.googleblog.com/2018/02/the-google-brain-team-looking-back-on-2017_6.html))
+  - [AI and Deep Learning in 2017 – A Year in Review](http://www.wildml.com/2017/12/ai-and-deep-learning-in-2017-a-year-in-review/)
+  - [2017: DeepMind's year in review](https://deepmind.com/blog/2017-deepminds-year-review/)
+  - [2017 Annual Report - AI Index](https://aiindex.org/2017-report.pdf)
+  - [Machine Learning Top 10 Articles for the Past Year (v.2017)](https://medium.mybridge.co/machine-learning-top-10-of-the-year-v-2017-7552599935c0)
+  - [MY FAVORITE DEEP LEARNING PAPERS OF 2017](http://cachestocaches.com/2017/12/favorite-deep-learning-2017/)
+  - [Deep Learning Achievements Over the Past Year – Stats and Bots](https://blog.statsbot.co/deep-learning-achievements-4c563e034257)
+
 - **논문정리**
   - [Awesome - Most Cited Deep Learning Papers](https://github.com/terryum/awesome-deep-learning-papers)
   - [Deep Learning Papers Reading Roadmap](https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap)
 
 - **유튜브**
   - [Machine Learning Recipes with Josh Gordon](https://www.youtube.com/playlist?list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal)
+  - [Siraj Raval Youtube Channel](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A)
 
 - **SlideShare**
   - [자습해도 모르겠던 딥러닝, 머리속에 인스톨 시켜드립니다](https://www.slideshare.net/yongho/ss-79607172)
@@ -179,3 +196,4 @@ https://bbongcol.github.io/deep-learning-bookmarks/
   - [AI Korea (Deep Learning)](https://www.facebook.com/groups/AIKoreaOpen)
   - [PyTorch KR](https://www.facebook.com/groups/PyTorchKR/)
   - [Reddit MachineLearning](https://www.reddit.com/r/MachineLearning/)
+
