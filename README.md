@@ -13,20 +13,29 @@ https://bbongcol.github.io/deep-learning-bookmarks/
 - **구글 머신러닝 단기집중과정**
   - [머신러닝 단기집중과정](https://developers.google.com/machine-learning/crash-course/?hl=ko)
   - [Learn with Google AI](https://developers.google.com/machine-learning/crash-course/?hl=ko)
- 
-- **CS231n: CNN for Visual Recognition Winter 2016**
-  - [유튜브 강의 플레이리스트](https://www.youtube.com/watch?v=NfnWJUyUJYU&list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC)
+
+- **스텐포드 AI 강의 리스트**
+  - [Stanford Artificial Intelligence Laboratory](http://ai.stanford.edu/courses/)
+
+- **CS231n: Convolutional Neural Networks for Visual Recognition (2016)**
+  - [Stanford 유튜브 강의 플레이리스트](https://www.youtube.com/playlist?list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC)
+  - [Stanford 강의 웹페이지](http://cs231n.stanford.edu/2016/)
+  - [Stanford 강의 노트, 슬라이드](http://cs231n.stanford.edu/2016/syllabus)
   - [유튜브 강의 (Kyoseok Song님 한글설명)](https://www.youtube.com/playlist?list=PL1Kb3QTCLIVtyOuMgyVgT-OeW0PYXl3j5)
-  - [강의 웹페이지](http://cs231n.stanford.edu/2016/)
-  - [강의 노트, 슬라이드](http://cs231n.stanford.edu/2016/syllabus)
+  - [유튜브 강의 (KoreaUniv DSBA)](https://www.youtube.com/playlist?list=PLetSlH8YjIfXMONyPC1t3uuDlc1Mc5F1A)
   - [강의노트 한글 번역 1 - AI Korea](http://aikorea.org/cs231n/)
   - [강의노트 한글 번역 2 - ishuca](http://ishuca.tistory.com/category/CS231n)
   - [유튜브 동영상 강좌 한글 자막](https://github.com/aikorea/cs231n/tree/master/captions/Ko)
 
-- **CS231n: CNN for Visual Recognition Winter 2017**
-  - [유튜브 강의 플레이리스트](https://www.youtube.com/playlist?list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk)
-  - [강의 웹페이지](http://cs231n.stanford.edu/2017/)
-  - [강의노트, 슬라이드](http://cs231n.stanford.edu/2017/syllabus)
+- **CS231n: Convolutional Neural Networks for Visual Recognition (Spring 2017)**
+  - [Stanford 유튜브 강의 플레이리스트](https://www.youtube.com/playlist?list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk)
+  - [Stanford 강의 웹페이지](http://cs231n.stanford.edu/2017/)
+  - [Stanford 강의노트, 슬라이드](http://cs231n.stanford.edu/2017/syllabus)
+
+- **CS231n: Convolutional Neural Networks for Visual Recognition (Spring 2018)**
+  - [Stanford 강의 웹페이지](http://cs231n.stanford.edu/2018/)
+  - [Stanford 강의노트, 슬라이드](http://cs231n.stanford.edu/2018/syllabus.html)
+  - [Stanford Course Note](http://cs231n.github.io/)
 
 - **CS224n: NLP with Deep Learning**
   - [유튜브 강의 플레이리스트](https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6)
@@ -79,6 +88,40 @@ https://bbongcol.github.io/deep-learning-bookmarks/
 
 - **Reinforcement Learning**
   - [Fundamental of Reinforcement Learning 깃북](https://dnddnjs.gitbooks.io/rl/content/)
+
+
+###  Conferences
+
+- **CVPR (IEEE Conference on Computer Vision and Pattern Recognition)**
+  - [홈페이지](https://www.thecvf.com/)
+  - [CVPR 2018](http://cvpr2018.thecvf.com/)
+  - [CVPR 2017](http://cvpr2017.thecvf.com/)
+  - [CVPR 2017 open access](http://openaccess.thecvf.com/CVPR2017.py)
+  
+- **ICCV (International Conference on Computer Vision)**
+  - [ICCV 2017](http://iccv2007.rutgers.edu/)
+  - [ICCV 2017 open access](http://openaccess.thecvf.com/ICCV2017.py)
+
+- **ECCV (European Conference on Computer Vision)**
+  - [ECCV 2018](https://eccv2018.org/)
+  - [ECCV 2016](http://www.eccv2016.org/main-conference/)
+
+- **NIPS (Neural Information Processing Systems)**
+  - [홈페이지](https://papers.nips.cc/)
+  - [논문모음](https://nips.cc/)
+  
+- **ICLR (International Conference on Learning Representations)**
+  - [홈페이지](https://iclr.cc/)
+  - [ICLR 2018](https://openreview.net/group?id=ICLR.cc/2018/Conference)
+
+- **ICML (International Conference on Machine Learning)**
+  - [홈페이지](https://icml.cc/)
+  - [ICML 2017](https://icml.cc/Conferences/2017/Schedule?type=Poster)
+
+- **논문정리**
+  - [Awesome - Most Cited Deep Learning Papers](https://github.com/terryum/awesome-deep-learning-papers)
+  - [Deep Learning Papers Reading Roadmap](https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap)
+  - [Awesome Deep Vision](https://github.com/kjw0612/awesome-deep-vision)
 
 
 ### GitHub
@@ -168,10 +211,6 @@ https://bbongcol.github.io/deep-learning-bookmarks/
   - [MY FAVORITE DEEP LEARNING PAPERS OF 2017](http://cachestocaches.com/2017/12/favorite-deep-learning-2017/)
   - [Deep Learning Achievements Over the Past Year – Stats and Bots](https://blog.statsbot.co/deep-learning-achievements-4c563e034257)
 
-- **논문정리**
-  - [Awesome - Most Cited Deep Learning Papers](https://github.com/terryum/awesome-deep-learning-papers)
-  - [Deep Learning Papers Reading Roadmap](https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap)
-
 - **유튜브**
   - [Machine Learning Recipes with Josh Gordon](https://www.youtube.com/playlist?list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal)
   - [Siraj Raval Youtube Channel](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A)
@@ -196,4 +235,3 @@ https://bbongcol.github.io/deep-learning-bookmarks/
   - [AI Korea (Deep Learning)](https://www.facebook.com/groups/AIKoreaOpen)
   - [PyTorch KR](https://www.facebook.com/groups/PyTorchKR/)
   - [Reddit MachineLearning](https://www.reddit.com/r/MachineLearning/)
-
