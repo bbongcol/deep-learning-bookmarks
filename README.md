@@ -221,14 +221,15 @@ https://bbongcol.github.io/deep-learning-bookmarks/
   - [Python과 Tensorflow를 활용한 AI Chatbot 개발 및 실무 적용](https://www.slideshare.net/healess/python-tensorflow-ai-chatbot)
   - [Applying deep learning to medical data](https://www.slideshare.net/hyunseokmin/applying-deep-learning-to-medical-data)
 
-- **AI 관련 공식 웹싸이트**
+- **AI 관련 Blog**
   - [Google Research Blog](https://research.googleblog.com)
   - [Microsoft Research](https://www.microsoft.com/en-us/research/)
   - [Facebook Research](https://research.fb.com) 
   - [Apple Machine Learning Journal](https://machinelearning.apple.com)
   - [Baidu Research](http://research.baidu.com)
+  - [Berkeley Artificial Intelligence Research](http://bair.berkeley.edu/blog/?refresh=1)
+  - [Deepmind](https://deepmind.com/blog/)
   - [다음 카카오 AI리포트](https://brunch.co.kr/magazine/kakaoaireport)
-  - [네이버 Labs](http://www.naverlabs.com/newsroom.html)
   
 - **커뮤니티**
   - [TensorFlow KR](https://www.facebook.com/groups/TensorFlowKR/), [FB Sight TF-KR](http://fbsight.com/c/TF-KR)
