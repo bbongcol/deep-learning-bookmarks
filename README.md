@@ -31,7 +31,7 @@ https://bbongcol.github.io/deep-learning-bookmarks/
   - [Stanford 유튜브 강의 플레이리스트](https://www.youtube.com/playlist?list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk)
   - [Stanford 강의 웹페이지](http://cs231n.stanford.edu/2017/)
   - [Stanford 강의노트, 슬라이드](http://cs231n.stanford.edu/2017/syllabus)
-  - [유튜브 동영상 장과 한글 자막](https://github.com/insurgent92/CS231N_17_KOR_SUB)
+  - [유튜브 동영상 강좌 한글 자막](https://github.com/insurgent92/CS231N_17_KOR_SUB)
 
 - **CS231n: Convolutional Neural Networks for Visual Recognition (Spring 2018)**
   - [Stanford 강의 웹페이지](http://cs231n.stanford.edu/2018/)
