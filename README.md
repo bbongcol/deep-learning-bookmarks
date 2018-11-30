@@ -49,6 +49,15 @@ https://bbongcol.github.io/deep-learning-bookmarks/
   - [유튜브 동영상 강좌 1 (비공식)](https://www.youtube.com/playlist?list=PLIDllPt3EQZoS8gCP3cw273Cq9puuPLTg)
   - [유뷰브 동영상 강좌 2 (비공식)](https://www.youtube.com/channel/UCMq6IdbXar_KtYixMS_wHcQ/videos)
 
+- **CS 230 - Deep Learning**
+  - [강의 웹페이지](http://cs230.stanford.edu)
+  - [강의노트](http://cs230.stanford.edu/syllabus.html)
+  - [강의용 GitHub](https://github.com/cs230-stanford/cs230-stanford.github.io)
+  - [Convolutional Neural Networks cheatsheet](https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-convolutional-neural-networks?fbclid=IwAR1j2Q9sAX8GF__XquyOY53fEUY_s8DK2qJAIsEbEFEU7WAbajGg39HhJa8)
+  - [Recurrent Neural Networks cheatsheet](https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-recurrent-neural-networks?fbclid=IwAR2Y7Smmr-rJIZuwGuz72_2t-ZEi-efaYcmDMhabHhUV2Bf6GjCZcSbq4ZI)
+  - [Deep Learning Tips and Tricks cheatsheet](https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-deep-learning-tips-and-tricks?fbclid=IwAR3kZSFd1QhAdjRU4js3ZJvukaMSNZL__eWzWGK1AxL-S0BHhCVLiC1t3vU)
+  - [Deep Learning cheatsheets for Stanford's CS 230 PDF](https://github.com/afshinea/stanford-cs-230-deep-learning?fbclid=IwAR0xG1k7B5JreLGMaG8TWJd2H6xNR6SgKSux3SM0qWyGpkR9YPAWVfypTJk)
+  
 - **MIT 6.S094: Deep Learning for Self-Driving Cars**
   - [강의 웹페이지](http://selfdrivingcars.mit.edu)
   - [유튜브 강의 플레이리스트](https://www.youtube.com/playlist?list=PLrAXtmErZgOeiKm4sgNOknGvNjby9efdf)
