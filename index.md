@@ -13,6 +13,10 @@
   - [머신러닝 단기집중과정](https://developers.google.com/machine-learning/crash-course/?hl=ko)
   - [Learn with Google AI](https://developers.google.com/machine-learning/crash-course/?hl=ko)
 
+- **Dive into Deep Learning**
+  - [Dive into Deep Learning](http://d2l.ai)
+  - [Dive into Deep Learning (D2L Book) Github](https://github.com/d2l-ai/d2l-en)
+
 - **스텐포드 AI 강의 리스트**
   - [Stanford Artificial Intelligence Laboratory](http://ai.stanford.edu/courses/)
 
