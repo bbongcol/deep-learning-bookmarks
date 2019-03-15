@@ -108,7 +108,7 @@ https://bbongcol.github.io/deep-learning-bookmarks/
 
 - **Tensorflow 공식 강좌**
   - [Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](https://www.coursera.org/learn/introduction-tensorflow)
-  - [ntro to TensorFlow for Deep Learning by TensorFlow](https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187)
+  - [Intro to TensorFlow for Deep Learning by TensorFlow](https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187)
 
 
 ###  Conferences
