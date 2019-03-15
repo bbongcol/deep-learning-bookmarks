@@ -103,6 +103,13 @@ https://bbongcol.github.io/deep-learning-bookmarks/
 - **Reinforcement Learning**
   - [Fundamental of Reinforcement Learning 깃북](https://dnddnjs.gitbooks.io/rl/content/)
 
+- **Reinforcement Learning**
+  - [Fundamental of Reinforcement Learning 깃북](https://dnddnjs.gitbooks.io/rl/content/)
+
+- **Tensorflow 공식 강좌**
+  - [Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](https://www.coursera.org/learn/introduction-tensorflow)
+  - [ntro to TensorFlow for Deep Learning by TensorFlow](https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187)
+
 
 ###  Conferences
 
