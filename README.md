@@ -110,6 +110,9 @@ https://bbongcol.github.io/deep-learning-bookmarks/
   - [Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](https://www.coursera.org/learn/introduction-tensorflow)
   - [Intro to TensorFlow for Deep Learning by TensorFlow](https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187)
 
+- **11-785 Introduction to Deep Learning (CMU)**
+  - [강의 홈페이지](http://deeplearning.cs.cmu.edu/)
+  - [CMU Deep Learning 유튜브 플레이 리스트](https://www.youtube.com/channel/UC8hYZGEkI2dDO8scT8C5UQA/videos)
 
 ###  Conferences
 
@@ -235,6 +238,8 @@ https://bbongcol.github.io/deep-learning-bookmarks/
 - **유튜브**
   - [Machine Learning Recipes with Josh Gordon](https://www.youtube.com/playlist?list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal)
   - [Siraj Raval Youtube Channel](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A)
+  - [Siraj Raval AI for Business](https://www.youtube.com/playlist?list=PL2-dafEMk2A6oABirZ1Ug805Ag-8W54rN) :  Siraj Raval의 스타트업들을 위한 코스 (한글 자막)
+
 
 - **SlideShare**
   - [자습해도 모르겠던 딥러닝, 머리속에 인스톨 시켜드립니다](https://www.slideshare.net/yongho/ss-79607172)
