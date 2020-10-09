@@ -114,6 +114,11 @@ https://bbongcol.github.io/deep-learning-bookmarks/
   - [강의 홈페이지](http://deeplearning.cs.cmu.edu/)
   - [CMU Deep Learning 유튜브 플레이 리스트](https://www.youtube.com/channel/UC8hYZGEkI2dDO8scT8C5UQA/videos)
 
+- **DS-GA 1008 · SPRING 2020 · NYU CENTER FOR DATA SCIENCE (NYU)**
+  - [강의 홈페이지](http://deeplearning.cs.cmu.edu/)
+  - [강의 목록(Youtube)](https://www.youtube.com/playlist?list=PLLHTzKZzVU9eaEyErdV26ikyolxOsz6mq)
+  - [유튜브 플레이 리스트](https://www.youtube.com/channel/UC8hYZGEkI2dDO8scT8C5UQA/videos)
+
 ###  Conferences
 
 - **CVPR (IEEE Conference on Computer Vision and Pattern Recognition)**
